@@ -9,17 +9,11 @@ class FilamentSimpleColorPickerServiceProvider extends PluginServiceProvider
 {
     public static string $name = 'filament-simple-color-picker';
 
-    protected array $resources = [
-        // CustomResource::class,
-    ];
+    protected array $resources = [];
 
-    protected array $pages = [
-        // CustomPage::class,
-    ];
+    protected array $pages = [];
 
-    protected array $widgets = [
-        // CustomWidget::class,
-    ];
+    protected array $widgets = [];
 
     protected array $styles = [
 //        'plugin-filament-simple-color-picker' => __DIR__.'/../resources/dist/filament-simple-color-picker.css',
