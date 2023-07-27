@@ -15,17 +15,11 @@ class FilamentSimpleColorPickerServiceProvider extends PluginServiceProvider
 
     protected array $widgets = [];
 
-    protected array $styles = [
-        //        'plugin-filament-simple-color-picker' => __DIR__.'/../resources/dist/filament-simple-color-picker.css',
-    ];
+    protected array $styles = [];
 
-    protected array $scripts = [
-        //        'plugin-filament-simple-color-picker' => __DIR__.'/../resources/dist/filament-simple-color-picker.js',
-    ];
+    protected array $scripts = [];
 
-    protected array $beforeCoreScripts = [
-        //         'plugin-filament-simple-color-picker' => __DIR__ . '/../resources/dist/filament-simple-color-picker.js',
-    ];
+    protected array $beforeCoreScripts = [];
 
     public function configurePackage(Package $package): void
     {
