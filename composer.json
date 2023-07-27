@@ -40,7 +40,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rockero\\FilamentSimpleColorPicker\\": "src",
+            "Rockero\\FilamentSimpleColorPicker\\": "src"
         }
     },
     "autoload-dev": {
