@@ -88,7 +88,7 @@
                 @foreach ( $getColors() as $color )
                     <div
                         x-on:click="state = '{{ $color }}'"
-                        class="h-5 w-5 m-1 rounded-full border-2 border-white shadow-gray-300 dark:shadow-none hover:shadow-gray-400 dark:hover:shadow-none shadow-md cursor-pointer"
+                        class="h-6 w-6 m-1 rounded-lg shadow-gray-300 dark:shadow-none hover:shadow-gray-400 dark:hover:shadow-none shadow-md cursor-pointer"
                         style="background-color:{{ $color }}">
                     </div>
                 @endforeach

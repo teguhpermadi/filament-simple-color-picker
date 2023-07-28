@@ -28,6 +28,8 @@ Filament form input allows you to predefine a color palette for users, with the 
 
 ![Alt text](/assets/simple-color-picker.png "Simple color picker")
 
+![Alt text](/assets/simple-color-picker-dark.png "Simple color picker dark")
+
 ### Usage
 
 ```php
