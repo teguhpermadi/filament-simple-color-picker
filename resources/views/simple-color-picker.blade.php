@@ -83,12 +83,12 @@
             <div
                 x-show="open"
                 x-on:click.outside="open = !open"
-                class="bg-white absolute p-2 border rounded-md z-10 grid grid-cols-{{ $getColorColumns() }}"
+                class="bg-white dark:bg-gray-700 absolute p-2 border dark:border-gray-600 rounded-md z-10 grid grid-cols-{{ $getColorColumns() }}"
             >
                 @foreach ( $getColors() as $color )
                     <div
                         x-on:click="state = '{{ $color }}'"
-                        class="h-5 w-5 m-1 rounded-full border-2 border-white shadow-gray-300 hover:shadow-gray-400 shadow-md cursor-pointer"
+                        class="h-5 w-5 m-1 rounded-full border-2 border-white shadow-gray-300 hover:shadow-gray-400 dark:hover:shadow-none shadow-md cursor-pointer"
                         style="background-color:{{ $color }}">
                     </div>
                 @endforeach
