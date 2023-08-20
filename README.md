@@ -1,10 +1,4 @@
-<picture>
-    <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://banners.beyondco.de/Filament%20-%20Simple%20Color%20Picker.png?theme=dark&packageManager=composer+require&packageName=rockero-cz%2Ffilament-simple-color-picker&pattern=diagonalStripes&style=style_1&description=Set+your+colors+simple+way...&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg"
-    />
-      <img alt="Banner" src="https://banners.beyondco.de/Filament%20-%20Simple%20Color%20Picker.png?theme=dark&packageManager=composer+require&packageName=rockero-cz%2Ffilament-simple-color-picker&pattern=diagonalStripes&style=style_1&description=Set+your+colors+simple+way...&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg">
-</picture>
+![Alt text](/assets/banner.png "Simple color picker")
 
 # Filament Simple Color Picker
 [![Rockero](https://img.shields.io/badge/Rockero-yellow)](https://rockero.cz)
