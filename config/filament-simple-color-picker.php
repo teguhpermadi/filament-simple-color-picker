@@ -1,6 +1,6 @@
 <?php
 
-// config for Rockero/FilamentSimpleColorPicker
+// config for TeguhPermadi/FilamentSimpleColorPicker
 return [
 
 ];
