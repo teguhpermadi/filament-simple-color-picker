@@ -1,6 +1,6 @@
 <?php
 
-namespace Rockero\FilamentSimpleColorPicker;
+namespace TeguhPermadi\FilamentSimpleColorPicker;
 
 use Closure;
 use Filament\Forms\Components\Concerns\HasAffixes;
