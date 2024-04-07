@@ -1,6 +1,6 @@
 <?php
 
-namespace TeguhPermadi\FilamentSimpleColorPicker;
+namespace Teguhpermadi\FilamentSimpleColorPicker;
 
 use Closure;
 use Filament\Forms\Components\Concerns\HasAffixes;
