@@ -1,5 +1,5 @@
 {
-    "name": "rockero-cz/filament-simple-color-picker",
+    "name": "teguhpermadi/filament-simple-color-picker",
     "description": "Simple color picker form field for FilamentPHP admin panel.",
     "keywords": [
         "rockero",
@@ -8,12 +8,12 @@
         "filament",
         "filament-simple-color-picker"
     ],
-    "homepage": "https://github.com/rockero-cz/filament-simple-color-picker",
+    "homepage": "https://github.com/teguhpermadi/filament-simple-color-picker",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rockero",
-            "email": "info@rockero.cz",
+            "name": "teguhpermadi",
+            "email": "tguh.permadi@gmail.com",
             "role": "Developer"
         }
     ],
@@ -68,10 +68,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Rockero\\FilamentSimpleColorPicker\\FilamentSimpleColorPickerServiceProvider"
+                "TeguhPermadi\\FilamentSimpleColorPicker\\FilamentSimpleColorPickerServiceProvider"
             ],
             "aliases": {
-                "FilamentSimpleColorPicker": "Rockero\\FilamentSimpleColorPicker\\Facades\\FilamentSimpleColorPicker"
+                "FilamentSimpleColorPicker": "TeguhPermadi\\FilamentSimpleColorPicker\\Facades\\FilamentSimpleColorPicker"
             }
         }
     },
