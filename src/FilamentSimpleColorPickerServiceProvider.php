@@ -1,6 +1,6 @@
 <?php
 
-namespace teguhpermadi\FilamentSimpleColorPicker;
+namespace Teguhpermadi\FilamentSimpleColorPicker;
 
 use Filament\PluginServiceProvider;
 use Spatie\LaravelPackageTools\Package;
