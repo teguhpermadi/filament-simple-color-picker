@@ -1,6 +1,6 @@
 <?php
 
-namespace Rockero\FilamentSimpleColorPicker;
+namespace TeguhPermadi\FilamentSimpleColorPicker;
 
 use Filament\PluginServiceProvider;
 use Spatie\LaravelPackageTools\Package;
